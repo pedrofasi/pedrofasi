@@ -1,6 +1,6 @@
 ### Hi there, my name is Pedro Henrique 👋
 
-- 📚 Cursando Ciência da Computação na PUC Minas
+- 📚 Cursando Ciência da Computação
 - 💻 C,C++ e Dart
 - 🎮 Gosto de jogar nas horas vagas.
 
