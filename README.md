@@ -4,8 +4,6 @@
 - 💻 C,C++ e Dart
 - 🎮 Gosto de jogar nas horas vagas.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofasi)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofasi&show_icons=true&theme=dracula)
 
 
