@@ -3,6 +3,7 @@
 - 📚 Cursando Ciência da Computação
 - 💻 C,C++ e Dart
 - 🎮 Gosto de jogar nas horas vagas.
+- ₿ Crypto & NFT Enthusiast
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofasi&show_icons=true&theme=dracula)
 
