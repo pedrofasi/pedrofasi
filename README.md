@@ -3,7 +3,7 @@
 - 📚 Cursando Ciência da Computação
 - 💻 C,C++ e Dart
 - 😄 Crypto & NFT Enthusiast
-- 🎮 ([Jogo profissionalmente](https://liquipedia.net/rocketleague/FAsi)
+- 🎮 [Jogo profissionalmente](https://liquipedia.net/rocketleague/FAsi)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofasi&show_icons=true&theme=dracula)
 
