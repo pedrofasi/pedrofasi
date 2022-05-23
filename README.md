@@ -1,7 +1,7 @@
 ### Hi there, my name is Pedro Henrique 👋
 
 - 📚 Cursando Ciência da Computação
-- 💻 C,C++ e Dart
+- 💻 C,C++, Python, Java, JS
 - 😄 Crypto & NFT Enthusiast
 - 🎮 [Jogo profissionalmente](https://liquipedia.net/rocketleague/FAsi)
 
