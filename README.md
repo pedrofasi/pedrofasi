@@ -1,6 +1,6 @@
 ### Hi there, my name is Pedro Henrique 👋
 
-- 📚 Cursando Ciência da Computação
+- 📚 Ciêntista da Computação
 - 💻 C,C++, Python, Java, JS
 - 😄 Crypto & NFT Enthusiast
 
