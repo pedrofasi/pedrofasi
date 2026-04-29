@@ -1,7 +1,7 @@
 ### Hi there, my name is Pedro Henrique 👋
 
 - 📚 Ciêntista da Computação
-- 💻 C,C++, Python, Java, JS
+- 💻 C,C++, C#, Python, Java, JS
 - 😄 Crypto Enthusiast
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrofasi&theme=apprentice)
